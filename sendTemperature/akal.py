@@ -41,5 +41,5 @@ def send_temp(temp):
 
 while True:
 	send_temp(read_temp())	
-	time.sleep(3000)
+	time.sleep(900)
 	
